@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">portofolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tentang">Isikan Apapun seterah kalian</string>
+    <string name="documentation_link">Documentation Link</string>
+    <string name="app_android_btn">%s App Android</string>
+</resources>
